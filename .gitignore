@@ -1,4 +1,4 @@
 .vscode
-velsh
 .idea
-*.o
+build/*
+!build/.gitkeep
